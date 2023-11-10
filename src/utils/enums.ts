@@ -1,0 +1,5 @@
+export enum eProductCards{
+    PRODUCT_DETAIL_CARD = "PRODUCT_DETAIL",
+    CART_ITEMS_CARD = "CART_ITEMS_CARD"
+}
+
